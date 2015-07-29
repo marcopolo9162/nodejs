@@ -4,6 +4,11 @@
 	"version":"0.1.1",
 	"description":"Censors words out of text",
 	"main": "censortext",
+	"reporsitory" : {
+	"type": "git",
+	"url":"https://githubs.com/marcopolo9162/nodejs/"
+	},
+	"keywords" : ["marcopolo9162"],
 	"dependencies":{},
 	"engines": {
 		"node": "*"
